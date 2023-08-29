@@ -22,7 +22,7 @@ export default class Navbar extends Component {
                   <ButtonContainer>
                       <i className="fas fa-cart-plus"> welcome my cart</i>
                   </ButtonContainer>
-                {/* ..... </Link>   */}
+                {/*1 ..... </Link>   */}
             </NavWrapper>
         )
     }
