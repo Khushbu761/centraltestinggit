@@ -18,11 +18,11 @@ export default class Navbar extends Component {
                     </Link>
                  </li>
                </ul>
-                {/*.. <Link to="/cart" className="ml-auto">  */}
+                <Link to="/cart" className="ml-auto">  
                   <ButtonContainer>
                       <i className="fas fa-cart-plus"> welcome my cart</i>
                   </ButtonContainer>
-                {/*1 ..... </Link>   */}
+                </Link>  
             </NavWrapper>
         )
     }
